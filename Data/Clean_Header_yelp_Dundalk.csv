@@ -1,3 +1,4 @@
+name,review_count,rating,coordinates,location,price,Area
 OneDo Coffee Roasters,103,4.5,"{'latitude': 39.2818782, 'longitude': -76.5781694}","{'address1': '913 S Lakewood Ave', 'address2': None, 'address3': '', 'city': 'Baltimore', 'zip_code': '21224', 'country': 'US', 'state': 'MD', 'display_address': ['913 S Lakewood Ave', 'Baltimore, MD 21224']}",$$,Dundalk
 Scoops Cafe,8,4.0,"{'latitude': 39.257, 'longitude': -76.52228}","{'address1': '63 Shipping Pl', 'address2': '', 'address3': '', 'city': 'Dundalk', 'zip_code': '21222', 'country': 'US', 'state': 'MD', 'display_address': ['63 Shipping Pl', 'Dundalk, MD 21222']}",$,Dundalk
 Dunkin',14,3.5,"{'latitude': 39.2841, 'longitude': -76.506}","{'address1': '1099 Merritt Blvd', 'address2': '', 'address3': '', 'city': 'Dundalk', 'zip_code': '21222', 'country': 'US', 'state': 'MD', 'display_address': ['1099 Merritt Blvd', 'Dundalk, MD 21222']}",$,Dundalk

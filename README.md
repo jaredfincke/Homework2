@@ -21,4 +21,4 @@ I used the getpass function from [geeksforgeeks.org](https://www.geeksforgeeks.o
 The data can be found in the "Data" directory. There are two raw data files, one for Catonsville and one for Dundalk.
 There are three cleaned data files, Catonsville, Dundalk, and one for Dundalk with no headers. The Clean Dundalk file with no headers was created so that I could create an additional combined data file with both areas data and only 1 header.  
 
-There are also two Jupyter notebooks. One notebook named "Code - Other Notebook" shows how I was able to wrangle the data. The one labeled "Technical Notebook" is where I performed my analysis on the data . 
+There are also two Jupyter notebooks. One notebook named "Data_Retrieval" shows how I was able to pull and wrangle the data. The one labeled "Technical Notebook" is where I performed my analysis on the data.
